@@ -1,0 +1,1 @@
+Cleaned version of the raw data. This data was the source that was used in the SQL and Tableau analysis portion of this project. The original dataset is not included in this repository due to file-size limitations.
